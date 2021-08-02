@@ -1,3 +1,3 @@
 This is welcome program
 
-This is welcome sample program
+This is sample program
